@@ -1,7 +1,10 @@
 First repo, dunno how it works, noob at scripting, so I just throw things here for now :v 
 
-I made this to be used on FRESH installation of termux and ONLY for termux.
-Using it on other paltforms or alongside other graphical environment probably will break something.
+INSTALLATION OF VANILLA XFCE4 for TERMUX NATIVE
+No any cosmetic, theme, or fancy shell. You only get vanilla XFCE4, default bash, firefox, and text editor Mousepad.
+
+I made this to be used on FRESH installation of termux and ONLY for termux. 
+Using it on other paltforms or alongside other graphical environment will break something. Maybe.
 
 What you need to be installed on your phone
 1. Termux [download here](https://github.com/termux/termux-app/releases/tag/v0.118.1)
