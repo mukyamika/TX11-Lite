@@ -3,7 +3,7 @@
 pkg update
 pkg install x11-repo tur-repo -y
 pkg update
-pkg install  firefox xfce4 xfce4-goodies mousepad termux-x11-nightly  termux-api  -y
+pkg install  firefox xfce4 xfce4-goodies mousepad termux-x11-nightly  -y
 pkg update && pkg upgrade -y
 
 cd /data/data/com.termux/files/usr/bin
