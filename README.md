@@ -27,7 +27,7 @@ Steps of installation
    ```
    bash ~/storage/shared/xfce4-barebone.sh
    ```
-5.  Two command will be added to your $PREFIX/bin
+5.  Two command will be added
 
     The first command
     ```
