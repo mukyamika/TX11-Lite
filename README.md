@@ -12,6 +12,7 @@ What you need to be installed on your phone
 DO NOT USE PLAY STORE VERSION! Get from github or Fdroid. Just download the universal version if you're not sure you phone CPU.
 
 For error  Android 12 Phantom Processes Killed "[Process completed (signal 9) - press Enter]" [Go here](https://github.com/termux/termux-app/issues/2366)
+
 For termux reset [Go here](https://github.com/termux/termux-app/issues/3643)
 
 Steps of installation
