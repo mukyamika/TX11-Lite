@@ -28,6 +28,8 @@ Steps of installation
    ```
    bash ~/storage/shared/xfce4-barebone.sh
    ```
+   Follow the instruction if prompted. Wait until you get the messeage "Enjoy..." 
+
 5.  Two command will be added
 
     The first command
