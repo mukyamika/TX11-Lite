@@ -1,5 +1,3 @@
-First repo, dunno how it works, noob at scripting, so I just throw things here for now :v 
-
 For now I only have the installation of XFCE4 on termux. No any cosmetic, theme, or fancy shell. You only get vanilla XFCE4, XFCE4 goodies, firefox, and text editor Mousepad.
 
 I made this to be used on FRESH installation of termux and ONLY for termux. 
